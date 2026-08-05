@@ -38,8 +38,7 @@ With a strong foundation in **C# (.NET)** and **PHP (Laravel)**, I specialize in
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.demolab.com/api?username=wallaceCoelho&show_icons=true&theme=transparent" alt="Wallace's GitHub Stats" />
-  <img src="https://github-readme-stats.demolab.com/api/top-langs/?username=wallaceCoelho&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wallaceCoelho&theme=dark" alt="Wallace's GitHub Streak" />
 </p>
 
 ---
